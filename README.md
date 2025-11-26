@@ -1,4 +1,4 @@
-## Hi there 👋
+## \center{Icíar Arnal Tribaldos}
 
 <!--
 **iarnal866/iarnal866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

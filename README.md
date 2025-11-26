@@ -1,5 +1,10 @@
-## \center{Icíar Arnal Tribaldos}
+# Icíar Arnal Tribaldos
 
+Currently pursuing a Masters in Computational Science and Engineering at TUM.
+\hline
+Connect with me:
+
+https://www.linkedin.com/in/elenadetoledo/ 
 <!--
 **iarnal866/iarnal866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
